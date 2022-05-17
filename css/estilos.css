@@ -40,7 +40,6 @@ body
     border: 1px solid #DDD;
     margin: 0 auto;
 }
-<<<<<<< HEAD
 
 #container h1
 {
@@ -50,7 +49,6 @@ body
 {
     background: white;
     padding: 1em;
-=======
 #container h1{
     font-size: 20PX;
     font-weight: bold;
@@ -61,5 +59,4 @@ body
  color: white;
  text-align: center;
  padding: 0.5em;
->>>>>>> footer
 }
